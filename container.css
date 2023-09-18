@@ -1,0 +1,59 @@
+#navbarSupportedContent{
+
+  margin-left: 30%;
+
+}
+.curved-icon-container {
+    display: flex;
+    justify-content: space-between;
+    width: 100%; /* Adjust the width as needed */
+    position: relative;
+    margin: 0 auto;
+  }
+  
+  .icon {
+    display: flex;
+    justify-content:center;
+    align-items:center;
+    position: absolute;
+    transform: translateX(-50%);
+  }
+  
+  .icon:nth-child(1) {
+    top: 225px;
+    left: 25%;
+  }
+  
+  .icon:nth-child(2) {
+    top: 85px;
+    left: 40%;
+  }
+  
+  .icon:nth-child(3) {
+    top: 85px;
+    left: 60%;
+  }
+  
+  .icon:nth-child(4) {
+    top: 225px;
+    left: 75%;
+  }
+  .icon:nth-child(5){
+    top: 300px;
+    left:50% ;
+    width:60% ;
+    height: 50%;
+   
+  }
+
+  .title{
+        position: relative;
+        justify-content: center;
+        align-items: center;
+        top:450px;
+        text-align: center;
+
+
+
+  }
+  
