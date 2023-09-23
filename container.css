@@ -17,6 +17,7 @@
     align-items:center;
     position: absolute;
     transform: translateX(-50%);
+    cursor: pointer;
   }
   
   .icon:nth-child(1) {
@@ -53,8 +54,10 @@
         top:450px;
         text-align: center;
 
+
+
   }
-.bby{
+  .bby{
     position: relative;
     justify-content: center;
     top: 500px;
@@ -63,5 +66,4 @@
     align-items: center;
     
   }
-  
   
